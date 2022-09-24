@@ -1,0 +1,195 @@
+body{
+  font-family: 'Montserrat';
+}
+
+
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+  background-image:  linear-gradient(rgba(4, 9, 30, 0.7),rgba(4, 9, 30, 0.7)),url(images/image8.jpg);
+  padding: 3% 5%;
+
+
+
+
+}
+
+
+
+h1{
+  font-family: 'Fugaz One', cursive;
+  padding: 5% 0;
+
+
+
+}
+
+h3{
+    font-family: 'Pacifico', cursive;
+    padding: 0 3%;
+
+}
+
+ h1{
+  font-size: 4.0rem;
+
+  line-height: 1.5;
+
+
+
+
+
+}
+h4{
+  width: 50%;
+}
+
+
+p{
+
+    font-weight:400;
+    line-height: 1.8;
+    font-size: 1.2rem;
+
+
+}
+
+
+.navbar-brand{
+
+
+  font-family:'Ubuntu', sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 0 0 1rem;
+}
+
+
+
+.nav-item{
+  font-family:'Ubuntu', sans-serif;
+  font-size: 1.2rem;
+  padding: 0 18px;
+
+
+}
+
+
+
+
+
+#about{
+
+  background-color: #F5F5DC;
+
+}
+
+.about-para-box {
+
+  padding:8% 2% 5% 2%;
+  text-align: center;
+
+
+
+  font-family: 'Cairo';
+  font-weight: lighter;
+}
+
+
+.about-box{
+
+
+  padding: 5%;
+
+
+
+  margin: 20px 0 20px 50px;
+
+}
+
+
+.footer{
+  padding:5%;
+}
+.social-icons{
+  padding: 20px 10px;
+  color: #B22222;
+}
+
+
+.social-icons:hover{
+  color: #FFA07A;
+}
+
+
+
+#carousel{
+  background-color: #E9967A;
+
+
+
+
+}
+
+
+
+.carousel-item{
+  padding: 3% 30%;
+}
+
+
+
+
+
+
+#copyrights{
+  margin: 15% 0 0 0;
+
+
+  background-color: #FFC0CB;
+
+
+
+
+
+
+}
+.copyrights-box{
+
+  padding: 5% 5% 5% 20%;
+}
+
+
+.copyrights-box p{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 0.8rem;
+
+}
+
+
+.carousel-item h3{
+
+  padding: 10% 0;
+  color: #fff;
+}
+
+
+
+
+
+
+@media(max-width:693px) {
+
+
+  .carousel-item{
+    padding: 3% 10%;
+  }
+
+
+
+
+
+
+}
